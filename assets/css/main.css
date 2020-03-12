@@ -2454,8 +2454,9 @@ input, select, textarea {
 			color: white;
 		}
 
-		.contact-container div {
+		.contact-container > div {
 			padding: 0% 5% 2% 5%;
+			width: 200px;
 		}
 
 
