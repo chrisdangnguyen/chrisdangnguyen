@@ -2275,7 +2275,6 @@ input, select, textarea {
 		filter: brightness(100%);
 		display: flex;
 		justify-content: center;
-
 		/* background-attachment: fixed, fixed; */
 		/* background-position: top left, bottom center; */
 		/* background-repeat: repeat, no-repeat; */
