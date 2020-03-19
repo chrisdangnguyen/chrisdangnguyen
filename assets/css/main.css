@@ -2449,8 +2449,9 @@ input, select, textarea {
 		.contact-container {
 			display: flex;
 			flex-direction: row;
-			justify-content: center;
+			justify-content: space-evenly;
 			color: white;
+
 		}
 
 		.contact-container > div {
@@ -2483,6 +2484,10 @@ input, select, textarea {
 			margin: 10px;
 			min-height: 488px;
 			max-height: 300px; 
+		}
+
+		.phone-number {
+			white-space: nowrap;
 		}
 	
 
