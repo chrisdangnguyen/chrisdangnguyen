@@ -2489,5 +2489,11 @@ input, select, textarea {
 		.phone-number {
 			white-space: nowrap;
 		}
+
+		.box-1 {
+
+		color: #39454b;
+		padding: 2em;
+	}
 	
 
