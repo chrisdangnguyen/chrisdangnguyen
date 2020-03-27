@@ -2495,5 +2495,14 @@ input, select, textarea {
 		color: #39454b;
 		padding: 2em;
 	}
+
+	.project-links {
+		text-decoration: none;
+		color: #39454b;;
+	}
+
+	.project-links:hover {
+		color: #98c593
+	}
 	
 
